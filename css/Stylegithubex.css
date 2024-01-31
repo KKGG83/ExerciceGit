@@ -9,3 +9,7 @@ header{
 footer{
     color: chartreuse;
 }
+
+footer:hover{
+    color: crimson;
+}
